@@ -190,7 +190,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl font-bold mb-4">Ready to Start Investing?</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of successful investors who trust Project Invest with their international real estate portfolio.
+            Join more thousands of successful investors who trust Project Invest with their international real estate portfolio.
           </p>
           <Link
             to="/contact"
